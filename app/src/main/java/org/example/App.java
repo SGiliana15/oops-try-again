@@ -21,11 +21,10 @@ public class App {
     if (num < 0 || num > 100){
       return false;
     }
-    
+
     return true;
   }
   public static void main(String[] args) {
-    // Test your function here in a driver program
     getInput();
   }
 }
